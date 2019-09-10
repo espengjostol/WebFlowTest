@@ -6,6 +6,13 @@
 
 Run the ``Application`` class in a Java IDE (e.g. IntelliJ IDEA).
 
+Alternatively, in Terminal:
+
+```
+$ mvn package
+$ sh target/bin/webapp
+```
+
 Then open http://localhost:8080/activationFlow
 
 ### Acknowledgements
